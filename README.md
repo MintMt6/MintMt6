@@ -1,6 +1,9 @@
 ## Olá 👋
 Como você tá?
 
+**Seja bem vindo ao meu perfil!**
+Meu nome é **Matheus Lacerda** e eu estou estudando na Alura (JavaScrispt)
+
 <!--
 **MintMt6/MintMt6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
